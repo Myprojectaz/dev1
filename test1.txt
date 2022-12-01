@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 087D-351E
+
+ Directory of C:\Users\Yaswanth\OneDrive\Desktop\Myproj
+
+01-12-2022  09:38    <DIR>          .
+30-11-2022  16:13    <DIR>          ..
+01-12-2022  09:38                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  146,596,073,472 bytes free
